@@ -1,7 +1,8 @@
 # Welcome! 👨‍💻
 
 Meu nome é Rafael Silva Soares, sou estudante de desenvolvimento WEB fullstack pela [Trybe](https://www.betrybe.com/)
-Atualmente estou cursando o módulo de Back-end
+Atualmente estou cursando o módulo de Back-end.
+Meu primeiro contato com programação foi em um curso técnico de Programação de Jogos Digitais, onde aprendi o básico de HTML, CSS, Java, MySQL e GameMaker.
 
 ### Tecnologias que conheço:
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
